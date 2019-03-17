@@ -1,0 +1,4 @@
+.idea/
+coverage/
+dump.rdb
+.env
